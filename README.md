@@ -8,4 +8,4 @@ Generate strong, unique passwords effortlessly with the @ Password Generator
 
 ## Live preview
 
- - [Webpage](https://mdxr.github.io/musicloud)
+ - [Webpage](https://mdxr.github.io/at-password-generator/)
