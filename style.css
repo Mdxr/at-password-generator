@@ -356,6 +356,7 @@ footer .links a:hover {
   .hero {
     justify-content: center;
     min-height: 100dvh;
+    padding-top: 10rem;
   }
   .hero .visual h1 {
     display: none;
